@@ -11,7 +11,7 @@
 <p> // 86.108.193.7  -->> 1449967621 (Turkcell Superonline Santral IP)
 
 
-<p>// Source IP List Bolumu Sinir Yoktur Fakat IPLer Decimal Ile Yazilmak Zorundadir.
+<p>Yukardakiler Örnek Olarak Girilmiştir, Sizde İPV4 TO Decimal Yaparak Listeye Ekliyebilirsiniz
 
 
 <p> Karşı Taraftaki Sunucuya Yukardaki Santral İP üzerinden UDP AMP şeklinde paket yollayabilirsiniz.
